@@ -1,0 +1,2 @@
+# RandomColor
+Random color Genreter 
